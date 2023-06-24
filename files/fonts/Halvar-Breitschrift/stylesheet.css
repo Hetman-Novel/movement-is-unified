@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Halvar Breitschrift';
+    src: url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Blk.eot');
+    src: local('Halvar Breitschrift Black'), local('HalvarBreit-Blk'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Black.eot?#iefix') format('embedded-opentype'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Black.woff2') format('woff2'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Black.woff') format('woff'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halvar Breitschrift';
+    src: url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Bold.eot');
+    src: local('Halvar Breitschrift Bold'), local('HalvarBreit-Bold'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Bold.woff2') format('woff2'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Bold.woff') format('woff'),
+        url('../files/fonts/Halvar-Breitschrift/HalvarBreit-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
